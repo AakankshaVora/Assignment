@@ -30,6 +30,7 @@ Assignments/
 │
 ├── git_assignment/
 │   ├── README.md
+|   ├── git_assignment_overview.md
 │
 ├── shellscripting/
 │   ├── hello.sh
