@@ -14,12 +14,12 @@ The assignments demonstrate hands-on understanding of:
 ---
 
 ## 🛠️ Tech Stack & Tools
-- Operating System: Ubuntu (Linux)
-- Version Control: Git & GitHub
-- Scripting: Bash / Shell Scripting
-- Programming Language: Python 3.10
-- Framework: Streamlit
-- Containerization: Docker
+- **Operating System**: Ubuntu (Linux)
+- **Version Control**: Git & GitHub
+- **Scripting**: Bash / Shell Scripting
+- **Programming Language**: Python 3.10
+- **Framework**: Streamlit
+- **Containerization**: Docker
 
 ---
 
@@ -158,6 +158,7 @@ http://localhost:8501
 
 ## 🏷️ Versioning
 A versioned release was created for the capstone project using Git tags:
+
 git tag v1.0  
 git push origin v1.0
 
